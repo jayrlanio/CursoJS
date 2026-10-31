@@ -9,7 +9,7 @@ diaSem = 1
 3 = Quarta
 4 = Quinta
 5 = Sexta
-6 = Sábado.
+6 = Sábado
 */
 
 //console.log(diaSem)
